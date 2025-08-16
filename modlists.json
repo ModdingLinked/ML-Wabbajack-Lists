@@ -113,23 +113,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/DBF Image.webp",
       "readme": "https://dragonbornsfate.moddinglinked.com/wabbajack.html",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://authored-files.wabbajack.org/A Dragonborn\u0027s Fate.wabbajack_cf41477c-1102-434d-8ccb-e18295e2a71d",
       "machineURL": "ADragonbornsFate",
       "discordURL": "https://discord.gg/S99Ary5eba",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775,
-      "TotalSize": 471659853
+      "Hash": "lTU9MUSAV3w=",
+      "Size": 34263870,
+      "NumberOfArchives": 145,
+      "SizeOfArchives": 5438317654,
+      "NumberOfInstalledFiles": 16351,
+      "SizeOfInstalledFiles": 8230449397,
+      "TotalSize": 13668767051
     },
-    "version": "16.8.25",
+    "version": "17.8.25",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
+    "dateUpdated": "2025-08-16T23:25:36.1411291Z",
     "repositoryName": ""
   }
 ]
