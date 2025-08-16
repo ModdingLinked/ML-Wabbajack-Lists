@@ -25,23 +25,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/VNV Image.webp",
       "readme": "https://vivanewvegas.moddinglinked.com/wabbajack.html",
-      "download": "https://authored-files.wabbajack.org/Viva New Vegas.wabbajack_be619b62-d016-48af-96a3-6795978a7c28",
+      "download": "https://authored-files.wabbajack.org/Viva New Vegas.wabbajack_fe6e62af-6086-4f49-a6eb-d3382bf4714c",
       "machineURL": "VivaNewVegas",
       "discordURL": "https://discord.gg/S99Ary5eba",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "Ef598p1Ld8Q=",
-      "Size": 239402912,
-      "NumberOfArchives": 153,
-      "SizeOfArchives": 2613977130,
-      "NumberOfInstalledFiles": 18356,
-      "SizeOfInstalledFiles": 8432765174,
-      "TotalSize": 11046742304
+      "Hash": "GQ/Jd7AV6bo=",
+      "Size": 236222654,
+      "NumberOfArchives": 152,
+      "SizeOfArchives": 2613872827,
+      "NumberOfInstalledFiles": 18355,
+      "SizeOfInstalledFiles": 8430941329,
+      "TotalSize": 11044814156
     },
     "version": "9.8.25",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-08-09T18:01:15.624073Z",
+    "dateUpdated": "2025-08-16T21:57:50.3821512Z",
     "repositoryName": ""
   },
   {
@@ -89,15 +89,15 @@
     "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "A Dragonborn's Fate",
-    "description": "A Dragonborn's Fate is a modlist for Skyrim Special Edition that will give you a perfectly stable, smooth and enjoyable experience.",
+    "title": "A Dragonborn\u0027s Fate",
+    "description": "A Dragonborn\u0027s Fate is a modlist for Skyrim Special Edition that will give you a perfectly stable, smooth and enjoyable experience.",
     "author": "ModdingLinked",
     "maintainers": [
       "github/Ungeziefi",
       "github/WallSoGB"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Stability",
       "Performance",
@@ -106,25 +106,30 @@
       "Vanilla Plus"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/DBF Image.webp",
       "readme": "https://dragonbornsfate.moddinglinked.com/wabbajack.html",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "ADragonbornsFate",
-      "discordURL": "https://discord.gg/S99Ary5eba"
+      "discordURL": "https://discord.gg/S99Ary5eba",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "e1+K7eJbDJw=",
       "Size": 0,
       "NumberOfArchives": 14,
       "SizeOfArchives": 135206078,
       "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "SizeOfInstalledFiles": 336453775,
+      "TotalSize": 471659853
     },
-    "version": "16.8.25"
+    "version": "16.8.25",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
