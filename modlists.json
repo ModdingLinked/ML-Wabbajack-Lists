@@ -1,135 +1,135 @@
 [
-    {
-        "title": "Viva New Vegas",
-        "description": "Viva New Vegas is a modlist for Fallout New Vegas that will give you a perfectly stable, smooth and enjoyable experience.",
-        "author": "ModdingLinked",
-        "maintainers": [
-            "github/Ungeziefi",
-            "github/WallSoGB"
-        ],
-        "game": "falloutnewvegas",
-        "official": true,
-        "tags": [
-            "Stability",
-            "Performance",
-            "Customizability",
-            "Gameplay",
-            "Vanilla Plus",
-            "Official"
-        ],
-        "nsfw": false,
-        "utility_list": false,
-        "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/VNV Image.webp",
-            "readme": "https://vivanewvegas.moddinglinked.com/wabbajack.html",
-            "download": "https://authored-files.wabbajack.org/Viva New Vegas.wabbajack_8429c096-8889-4c5e-9486-518fe06ed01e",
-            "machineURL": "VivaNewVegas",
-            "discordURL": "https://discord.gg/S99Ary5eba",
-            "websiteURL": ""
-        },
-        "download_metadata": {
-            "Hash": "Gpeel9WnLH8=",
-            "Size": 236301454,
-            "NumberOfArchives": 156,
-            "SizeOfArchives": 2950677617,
-            "NumberOfInstalledFiles": 18865,
-            "SizeOfInstalledFiles": 8274145263,
-            "TotalSize": 11224822880
-        },
-        "version": "12.10.25",
-        "dateCreated": "1970-01-01T00:00:00Z",
-        "dateUpdated": "2025-10-12T20:21:11.7552438Z",
-        "repositoryName": ""
+  {
+    "title": "Viva New Vegas",
+    "description": "Viva New Vegas is a modlist for Fallout New Vegas that will give you a perfectly stable, smooth and enjoyable experience.",
+    "author": "ModdingLinked",
+    "maintainers": [
+      "github/Ungeziefi",
+      "github/WallSoGB"
+    ],
+    "game": "falloutnewvegas",
+    "official": true,
+    "tags": [
+      "Stability",
+      "Performance",
+      "Customizability",
+      "Gameplay",
+      "Vanilla Plus",
+      "Official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/VNV Image.webp",
+      "readme": "https://vivanewvegas.moddinglinked.com/wabbajack.html",
+      "download": "https://authored-files.wabbajack.org/Viva New Vegas.wabbajack_8429c096-8889-4c5e-9486-518fe06ed01e",
+      "machineURL": "VivaNewVegas",
+      "discordURL": "https://discord.gg/S99Ary5eba",
+      "websiteURL": ""
     },
-    {
-        "title": "The Midnight Ride",
-        "description": "The Midnight Ride is a modlist for Fallout 4 that will give you a perfectly stable, smooth and enjoyable experience.",
-        "author": "ModdingLinked",
-        "maintainers": [
-            "github/Ungeziefi",
-            "github/WallSoGB"
-        ],
-        "game": "fallout4",
-        "official": false,
-        "tags": [
-            "Stability",
-            "Performance",
-            "Customizability",
-            "Gameplay",
-            "Vanilla Plus"
-        ],
-        "nsfw": false,
-        "utility_list": false,
-        "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/TMR Image.webp",
-            "readme": "https://themidnightride.moddinglinked.com/wabbajack.html",
-            "download": "https://authored-files.wabbajack.org/The Midnight Ride.wabbajack_54a03356-4ead-4e7b-830d-79fb550b3a10",
-            "machineURL": "TheMidnightRide",
-            "discordURL": "https://discord.gg/S99Ary5eba",
-            "websiteURL": ""
-        },
-        "download_metadata": {
-            "Hash": "o+ktT8Gkc84=",
-            "Size": 886978,
-            "NumberOfArchives": 101,
-            "SizeOfArchives": 6464228957,
-            "NumberOfInstalledFiles": 9329,
-            "SizeOfInstalledFiles": 8585263670,
-            "TotalSize": 15049492627
-        },
-        "version": "11.10.25",
-        "dateCreated": "1970-01-01T00:00:00Z",
-        "dateUpdated": "2025-10-11T12:00:49.2681702Z",
-        "repositoryName": ""
+    "download_metadata": {
+      "Hash": "Gpeel9WnLH8=",
+      "Size": 236301454,
+      "NumberOfArchives": 156,
+      "SizeOfArchives": 2950677617,
+      "NumberOfInstalledFiles": 18865,
+      "SizeOfInstalledFiles": 8274145263,
+      "TotalSize": 11224822880
     },
-    {
-        "title": "A Dragonborn\u0027s Fate",
-        "description": "A Dragonborn\u0027s Fate is a modlist for Skyrim Special Edition that will give you a perfectly stable, smooth and enjoyable experience.",
-        "author": "ModdingLinked",
-        "maintainers": [
-            "github/Ungeziefi",
-            "github/WallSoGB"
-        ],
-        "game": "skyrimspecialedition",
-        "official": false,
-        "tags": [
-            "Stability",
-            "Performance",
-            "Customizability",
-            "Gameplay",
-            "Vanilla Plus"
-        ],
-        "nsfw": false,
-        "utility_list": false,
-        "image_contains_title": true,
-        "DisplayVersionOnlyInInstallerView": false,
-        "force_down": false,
-        "links": {
-            "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/DBF Image.webp",
-            "readme": "https://dragonbornsfate.moddinglinked.com/wabbajack.html",
-            "download": "https://authored-files.wabbajack.org/A Dragonborn\u0027s Fate.wabbajack_85f492be-11c9-4379-8b8a-77bd39d44c9d",
-            "machineURL": "ADragonbornsFate",
-            "discordURL": "https://discord.gg/S99Ary5eba",
-            "websiteURL": ""
-        },
-        "download_metadata": {
-            "Hash": "yQKqlzDl7j0=",
-            "Size": 34278455,
-            "NumberOfArchives": 140,
-            "SizeOfArchives": 4874509844,
-            "NumberOfInstalledFiles": 20004,
-            "SizeOfInstalledFiles": 7035362582,
-            "TotalSize": 11909872426
-        },
-        "version": "5.10.25",
-        "dateCreated": "1970-01-01T00:00:00Z",
-        "dateUpdated": "2025-10-05T13:54:33.4624197Z",
-        "repositoryName": ""
-    }
+    "version": "12.10.25",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-10-12T20:21:11.7552438Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "The Midnight Ride",
+    "description": "The Midnight Ride is a modlist for Fallout 4 that will give you a perfectly stable, smooth and enjoyable experience.",
+    "author": "ModdingLinked",
+    "maintainers": [
+      "github/Ungeziefi",
+      "github/WallSoGB"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Stability",
+      "Performance",
+      "Customizability",
+      "Gameplay",
+      "Vanilla Plus"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/TMR Image.webp",
+      "readme": "https://themidnightride.moddinglinked.com/wabbajack.html",
+      "download": "https://authored-files.wabbajack.org/The Midnight Ride.wabbajack_217fef59-cd73-4546-9006-f613a619a8ac",
+      "machineURL": "TheMidnightRide",
+      "discordURL": "https://discord.gg/S99Ary5eba",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "kJA57Twn4qU=",
+      "Size": 911778,
+      "NumberOfArchives": 104,
+      "SizeOfArchives": 6504282271,
+      "NumberOfInstalledFiles": 9338,
+      "SizeOfInstalledFiles": 8622969953,
+      "TotalSize": 15127252224
+    },
+    "version": "22.10.25",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-10-22T19:13:43.5847459Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "A Dragonborn\u0027s Fate",
+    "description": "A Dragonborn\u0027s Fate is a modlist for Skyrim Special Edition that will give you a perfectly stable, smooth and enjoyable experience.",
+    "author": "ModdingLinked",
+    "maintainers": [
+      "github/Ungeziefi",
+      "github/WallSoGB"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Stability",
+      "Performance",
+      "Customizability",
+      "Gameplay",
+      "Vanilla Plus"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/DBF Image.webp",
+      "readme": "https://dragonbornsfate.moddinglinked.com/wabbajack.html",
+      "download": "https://authored-files.wabbajack.org/A Dragonborn\u0027s Fate.wabbajack_85f492be-11c9-4379-8b8a-77bd39d44c9d",
+      "machineURL": "ADragonbornsFate",
+      "discordURL": "https://discord.gg/S99Ary5eba",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "yQKqlzDl7j0=",
+      "Size": 34278455,
+      "NumberOfArchives": 140,
+      "SizeOfArchives": 4874509844,
+      "NumberOfInstalledFiles": 20004,
+      "SizeOfInstalledFiles": 7035362582,
+      "TotalSize": 11909872426
+    },
+    "version": "5.10.25",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-10-05T13:54:33.4624197Z",
+    "repositoryName": ""
+  }
 ]
