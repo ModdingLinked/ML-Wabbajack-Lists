@@ -25,23 +25,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/VNV Image.webp",
       "readme": "https://vivanewvegas.moddinglinked.com/wabbajack.html",
-      "download": "https://authored-files.wabbajack.org/Viva New Vegas.wabbajack_37277056-90f7-43fd-a3ab-959286d17afe",
+      "download": "https://authored-files.wabbajack.org/Viva New Vegas.wabbajack_d3688c61-b7fa-4309-a735-67e733150ec5",
       "machineURL": "VivaNewVegas",
       "discordURL": "https://discord.gg/S99Ary5eba",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "KjzE+ogXvPk=",
-      "Size": 235488788,
+      "Hash": "PUEZdC7Y2yg=",
+      "Size": 235489297,
       "NumberOfArchives": 152,
-      "SizeOfArchives": 2897599984,
-      "NumberOfInstalledFiles": 17297,
-      "SizeOfInstalledFiles": 8142620458,
-      "TotalSize": 11040220442
+      "SizeOfArchives": 2959345370,
+      "NumberOfInstalledFiles": 17298,
+      "SizeOfInstalledFiles": 8567846771,
+      "TotalSize": 11527192141
     },
-    "version": "16.2.26",
+    "version": "14.3.26",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-16T22:37:06.8644037Z",
+    "dateUpdated": "2026-03-19T17:33:07.7813898Z",
     "repositoryName": ""
   },
   {
@@ -72,7 +73,8 @@
       "download": "https://authored-files.wabbajack.org/The Midnight Ride.wabbajack_b53e3111-3d0a-48f9-9a5b-54fd957021ae",
       "machineURL": "TheMidnightRide",
       "discordURL": "https://discord.gg/S99Ary5eba",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "ARNO1it1Xno=",
@@ -116,7 +118,8 @@
       "download": "https://authored-files.wabbajack.org/A Dragonborn\u0027s Fate.wabbajack_feeca3f6-0e8f-4de0-9997-1c88178fb692",
       "machineURL": "ADragonbornsFate",
       "discordURL": "https://discord.gg/S99Ary5eba",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "FMNq8bdnQWA=",
