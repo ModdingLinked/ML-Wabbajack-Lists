@@ -115,24 +115,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/DBF Image.webp",
       "readme": "https://dragonbornsfate.moddinglinked.com/wabbajack.html",
-      "download": "https://authored-files.wabbajack.org/A Dragonborn\u0027s Fate.wabbajack_feeca3f6-0e8f-4de0-9997-1c88178fb692",
+      "download": "https://authored-files.wabbajack.org/A Dragonborn\u0027s Fate.wabbajack_98be838c-598a-46a0-9dd8-5a50e1f8bea0",
       "machineURL": "ADragonbornsFate",
       "discordURL": "https://discord.gg/S99Ary5eba",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "FMNq8bdnQWA=",
-      "Size": 34268062,
-      "NumberOfArchives": 135,
-      "SizeOfArchives": 5099821409,
-      "NumberOfInstalledFiles": 20303,
-      "SizeOfInstalledFiles": 7456937018,
-      "TotalSize": 12556758427
+      "Hash": "IaOVqwRa3nA=",
+      "Size": 34275083,
+      "NumberOfArchives": 126,
+      "SizeOfArchives": 5497721982,
+      "NumberOfInstalledFiles": 16439,
+      "SizeOfInstalledFiles": 8374358946,
+      "TotalSize": 13872080928
     },
-    "version": "10.2.26",
+    "version": "19.7.26",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-10T20:13:07.7846083Z",
+    "dateUpdated": "2026-07-18T23:20:57.4810642Z",
     "repositoryName": ""
   }
 ]
