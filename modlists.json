@@ -70,24 +70,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/TMR Image.webp",
       "readme": "https://themidnightride.moddinglinked.com/wabbajack.html",
-      "download": "https://authored-files.wabbajack.org/The Midnight Ride.wabbajack_a2f98c00-650b-4d07-9e7b-943202028935",
+      "download": "https://authored-files.wabbajack.org/The Midnight Ride.wabbajack_88c436ba-7b4a-48b8-a107-c3ff1ae2c23d",
       "machineURL": "TheMidnightRide",
       "discordURL": "https://discord.gg/S99Ary5eba",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "xgT+GuErnhY=",
-      "Size": 632704,
-      "NumberOfArchives": 93,
-      "SizeOfArchives": 6413791778,
-      "NumberOfInstalledFiles": 2415,
-      "SizeOfInstalledFiles": 7900954666,
-      "TotalSize": 14314746444
+      "Hash": "jOOX7Z6BJIo=",
+      "Size": 1522052,
+      "NumberOfArchives": 94,
+      "SizeOfArchives": 6442893980,
+      "NumberOfInstalledFiles": 2433,
+      "SizeOfInstalledFiles": 7979421168,
+      "TotalSize": 14422315148
     },
-    "version": "23.7.26",
+    "version": "24.7.26",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-07-22T22:25:48.7901412Z",
+    "dateUpdated": "2026-07-24T20:18:26.9171466Z",
     "repositoryName": ""
   },
   {
