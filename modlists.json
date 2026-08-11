@@ -25,24 +25,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/VNV Image.webp",
       "readme": "https://vivanewvegas.moddinglinked.com/wabbajack.html",
-      "download": "https://authored-files.wabbajack.org/Viva New Vegas.wabbajack_822bef8b-c741-4245-b507-a8cfa574ca11",
+      "download": "https://authored-files.wabbajack.org/Viva New Vegas.wabbajack_a4fed56b-e7fc-4483-a15f-beb48f877606",
       "machineURL": "VivaNewVegas",
       "discordURL": "https://discord.gg/S99Ary5eba",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "6nLnPHOldNI=",
-      "Size": 235309232,
+      "Hash": "S4fFrzk98TE=",
+      "Size": 235317251,
       "NumberOfArchives": 153,
-      "SizeOfArchives": 2819434218,
-      "NumberOfInstalledFiles": 17292,
-      "SizeOfInstalledFiles": 9809498445,
-      "TotalSize": 12628932663
+      "SizeOfArchives": 3079270181,
+      "NumberOfInstalledFiles": 17630,
+      "SizeOfInstalledFiles": 9232895295,
+      "TotalSize": 12312165476
     },
-    "version": "9.8.26",
+    "version": "11.8.26",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-09T18:03:09.5424976Z",
+    "dateUpdated": "2026-08-11T19:35:24.4704099Z",
     "repositoryName": ""
   },
   {
